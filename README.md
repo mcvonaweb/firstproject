@@ -1,2 +1,2 @@
 # firstproject
-just stared using github
+just started using github
